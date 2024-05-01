@@ -1,0 +1,14 @@
+{
+    "education":[
+        {
+            "title": "Sep 2021- May 2025",
+            "cardTitle": "B.Tech, Information Technology",
+            "cardSubtitle":"Karpagam Institute Of Technology, Coimbatore",
+            "cardDetailedText": "CGPA - 7.5",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        }
+        
+    ]
+}
